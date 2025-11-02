@@ -1,2 +1,2 @@
-# Pair-programming
+# Pair programming
 Pair programming exercise
